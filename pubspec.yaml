@@ -1,0 +1,74 @@
+name: kirpix
+description: A new Flutter project.
+
+version: 1.0.11+12
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Core dependencies
+  in_app_update: ^4.2.5
+  get: ^4.6.5
+  flutter_svg: ^2.0.0
+  url_launcher: ^6.2.5
+  wakelock_plus: ^1.3.1
+  audio_session: ^0.2.2
+  carousel_slider: ^5.1.1
+  cupertino_icons: ^1.0.2
+  otp_text_field: ^1.1.3
+  webview_flutter: ^4.2.2
+  iconsax: ^0.0.8
+  font_awesome_flutter: ^10.1.0  # Replaced iconsax/iconly
+  http: ^1.5.0
+  overlay_loader_with_app_icon: ^0.0.3
+  shared_preferences: ^2.0.15
+  double_back_to_close_app: ^2.1.0
+  connectivity_plus: ^7.0.0
+  cached_network_image: ^3.2.0
+  intl: ^0.20.2
+  flutter_widget_from_html: ^0.16.1
+  flutter_staggered_grid_view: ^0.7.0
+  image_picker: ^1.2.0
+  flutter_html: ^3.0.0  # Updated to fix dependency conflicts
+  dropdown_search: ^5.0.6
+  package_info_plus: ^9.0.0  # Compatible with Dart 3.6 / Flutter 3.27.0
+
+  # Firebase dependencies
+  firebase_core: ^4.2.0
+  firebase_analytics: ^12.0.3
+  firebase_messaging: ^16.0.3
+
+
+
+
+  # Local notifications
+  flutter_local_notifications: ^19.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/
+    - assets/svg/
+
+  fonts:
+    - family: DMSans_Bold
+      fonts:
+        - asset: assets/fonts/DMSans-Bold.ttf
+    - family: DMSans_Medium
+      fonts:
+        - asset: assets/fonts/DMSans-Medium.ttf
+    - family: DMSans_Regular
+      fonts:
+        - asset: assets/fonts/DMSans-Regular.ttf

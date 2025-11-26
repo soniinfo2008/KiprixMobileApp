@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1025200269406",
+    "project_id": "kiprix-f7c68",
+    "storage_bucket": "kiprix-f7c68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025200269406:android:21339e0598a6db83986ccf",
+        "android_client_info": {
+          "package_name": "com.si.kiprix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025200269406-qomb25l4g2ncc77tpcglhbsfmo2cmo2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPRJLdJppfRMEh283oxethGhDYaWF_aZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025200269406-cqf3kog2dc987igb6bdb4oti1ffnq7n8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025200269406-d9ekj7bde8sqhglemh7m2crvodmkvid0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.si.kiprix"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025200269406:android:8e375384864b0539986ccf",
+        "android_client_info": {
+          "package_name": "com.si.kiprix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025200269406-57sfvahdfge3ovaas3aofb8k4udr8pen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.si.kiprix",
+            "certificate_hash": "13e33125c2a9e040c8f7505088b2e43ccbf45983"
+          }
+        },
+        {
+          "client_id": "1025200269406-qomb25l4g2ncc77tpcglhbsfmo2cmo2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPRJLdJppfRMEh283oxethGhDYaWF_aZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025200269406-cqf3kog2dc987igb6bdb4oti1ffnq7n8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025200269406-d9ekj7bde8sqhglemh7m2crvodmkvid0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.si.kiprix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

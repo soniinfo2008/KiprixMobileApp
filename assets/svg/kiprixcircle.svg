@@ -1,0 +1,16 @@
+<svg viewBox="0 0 820100 820100" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="355300" y1="3700" x2="464800" y2="816400">
+      <stop offset="0" style="stop-opacity:1; stop-color:#C0E37F"/>
+      <stop offset="1" style="stop-opacity:1; stop-color:#7FCB50"/>
+    </linearGradient>
+    <style type="text/css">
+   
+    .fil0 {fill:url(#id0)}
+   
+  </style>
+  </defs>
+  <g id="Layer_x0020_1" transform="matrix(1, 0, 0, 1, -1.4551915228366852e-11, 0)">
+    <circle class="fil0" cx="410000" cy="410000" r="410000"/>
+  </g>
+</svg>
