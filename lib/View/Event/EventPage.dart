@@ -433,7 +433,7 @@ class _EventPageState extends State<EventPage> {
                                                   CrossAxisAlignment.center,
                                                   children: [
                                                     Text(
-                                                      'Tommorrow',
+                                                      'Tomorrow',
                                                       textAlign: TextAlign.center,
                                                       style: TextStyle(
                                                         color: flag == "tomorrow"

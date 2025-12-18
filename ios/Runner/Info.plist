@@ -32,13 +32,13 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>We need access to your camera for taking photos.</string>
+	<string>Camera access is required to take a photo for your profile</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>We need access to your microphone for audio recording.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>We need permission to save photos to your library.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>We need access to your photo library to select images.</string>
+	<string>We need access to your photo library to select image.</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UIBackgroundModes</key>

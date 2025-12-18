@@ -9,7 +9,7 @@ class Const{
   static const  customerIdStr = 'customer_idstr';
   static const  firstName = 'first_name';
   static const  lastName = 'last_name';
-  static const  emailID = 'email';
+  static const email = 'email';  // Changed from emailID to email
   static const  phoneNumber = 'phone_number';
   static const  token = 'token';
   static const  fBToken = 'token_firebase';
@@ -18,6 +18,7 @@ class Const{
   static const  registrationDate = 'registration_date';
   static const  status = 'status';
   static const  customerImage = 'profile';
+  static const preferedName = 'prefered_name'; // Added this line
 
 
 
